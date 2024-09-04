@@ -1,0 +1,5 @@
+
+content >  Dockerfile > docker build -t /username/name-of-the:tag image > docker push /username/name-of-the:tag 
+
+log in
+
